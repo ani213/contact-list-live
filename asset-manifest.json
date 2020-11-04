@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/contact-list-live/static/css/main.53d4fc40.chunk.css",
+    "main.js": "/contact-list-live/static/js/main.05823a71.chunk.js",
+    "main.js.map": "/contact-list-live/static/js/main.05823a71.chunk.js.map",
+    "runtime-main.js": "/contact-list-live/static/js/runtime-main.a37e712f.js",
+    "runtime-main.js.map": "/contact-list-live/static/js/runtime-main.a37e712f.js.map",
+    "static/css/2.64a99b10.chunk.css": "/contact-list-live/static/css/2.64a99b10.chunk.css",
+    "static/js/2.ba8bb107.chunk.js": "/contact-list-live/static/js/2.ba8bb107.chunk.js",
+    "static/js/2.ba8bb107.chunk.js.map": "/contact-list-live/static/js/2.ba8bb107.chunk.js.map",
+    "index.html": "/contact-list-live/index.html",
+    "precache-manifest.0aeb76ab39141acab50e617d11864614.js": "/contact-list-live/precache-manifest.0aeb76ab39141acab50e617d11864614.js",
+    "service-worker.js": "/contact-list-live/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/contact-list-live/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.53d4fc40.chunk.css.map": "/contact-list-live/static/css/main.53d4fc40.chunk.css.map",
+    "static/js/2.ba8bb107.chunk.js.LICENSE": "/contact-list-live/static/js/2.ba8bb107.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a37e712f.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.ba8bb107.chunk.js",
+    "static/css/main.53d4fc40.chunk.css",
+    "static/js/main.05823a71.chunk.js"
+  ]
+}
